@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "aws-sdk": ">= 2.0.9",
+    "aws-sdk": ">= 2.814.0",
     "ejs": "^2.6.1",
     "expres": "0.0.5",
     "express-session": "^1.15.6",
